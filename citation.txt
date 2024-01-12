@@ -1,0 +1,7 @@
+@article{REPO214,
+    author = "Ahadzadeh, Behrouz and Abdar, Moloud and Safara, Fatemeh and Khosravi, Abbas and Menhaj, Mohammad Bagher and Suganthan, Ponnuthurai Nagaratnam",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    publisher = "IEEE",
+    title = "{SFE: A Simple, Fast and Efficient Feature Selection Algorithm for High-Dimensional Data}",
+    year = "2023"
+}
